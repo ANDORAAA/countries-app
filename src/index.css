@@ -1,0 +1,17 @@
+body {
+  background-color: #a28089;
+}
+
+.country-flag {
+  max-width: 4.4rem;
+  max-height: auto;
+}
+
+.app-wrapper {
+  text-align: center;
+}
+
+.pagination-wrapper {
+  display: inline-block;
+  margin-top: 2rem;
+}
