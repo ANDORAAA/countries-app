@@ -9,9 +9,12 @@ body {
 
 .app-wrapper {
   text-align: center;
+  padding: 1rem;
 }
 
 .pagination-wrapper {
   display: inline-block;
   margin-top: 2rem;
 }
+
+/* TODO make it responsive for mobile */
